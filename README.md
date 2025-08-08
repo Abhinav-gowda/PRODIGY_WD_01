@@ -30,7 +30,7 @@ Check out the live demo: [Your Deployment URL Here]
 /
 ├── index.html          # Main HTML file
 ├── README.md           # Project description and instructions
-All styling and JavaScript are embedded within the index.html file for simplicity.
+
 
 📱 Responsive Design
 This project is fully responsive:
@@ -54,19 +54,10 @@ Animations: Tweak durations, easing, or keyframes in the CSS or JS.
 
 🛠️ Setup Instructions
 Clone the repo
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/interactive-navigation-menu.git
 Open the file
-
-bash
-Copy
-Edit
 cd interactive-navigation-menu
 open index.html
-Or simply open index.html in your favorite browser.
 
 🧪 Browser Compatibility
 Tested on the latest versions of:
