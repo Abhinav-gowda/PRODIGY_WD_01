@@ -1,9 +1,10 @@
 # Interactive Navigation Menu 🚀
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellowgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Abhinav-gowda/PRODIGY_WD_01)](https://github.com/Abhinav-gowda/PRODIGY_WD_01/commits/main)
 
 ## Description
 
@@ -19,7 +20,7 @@ This project demonstrates a modern, responsive, and interactive navigation menu 
 6.  [Project Structure](#project-structure)
 7.  [Contributing](#contributing)
 8.  [License](#license)
-9. [Important Links](#important-links)
+9.  [Important Links](#important-links)
 10. [Footer](#footer)
 
 ## Features ✨
@@ -81,7 +82,7 @@ Here are some real-world use cases for the project:
 ## Project Structure 📁
 
 ```
-/
+.
 ├── index.html       # Main HTML file containing structure, styles, and scripts
 └── README.md        # Project description and instructions
 ```
